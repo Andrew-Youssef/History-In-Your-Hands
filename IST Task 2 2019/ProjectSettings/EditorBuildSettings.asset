@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Starting Screen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Credits Screen.unity
+    guid: f025f23a6d995f441910a75d965c612a
+  - enabled: 1
+    path: Assets/Scenes/Selection Screen.unity
+    guid: 8b0aec3cef542a54fa210b34b7d83fd0
+  - enabled: 1
+    path: Assets/Scenes/Log Screen.unity
+    guid: 17c03150c8059df408adfe3deda16293
+  - enabled: 1
+    path: Assets/Scenes/Ancient Egypt/Ancient Egypt Teleporter Screen.unity
+    guid: 9d3250a79fc4e0a4cb7e2de86272733b
+  - enabled: 1
+    path: Assets/Scenes/Ancient Egypt/Ancient Egypt Area Screen.unity
+    guid: b9d452490e74a034ab6422cbe9404896
+  - enabled: 1
+    path: Assets/Scenes/Ancient Egypt/Pyramid Screen.unity
+    guid: 7568c7efa21f5064a9bcc2cebb2529da
+  - enabled: 1
+    path: Assets/Scenes/Ancient Egypt/Mummy Screen.unity
+    guid: ddaf485fd0bdaec42ab48708536c16b2
+  - enabled: 1
+    path: Assets/Scenes/Early Imperial China/Early Imperial China Teleporter Screen.unity
+    guid: be3b2c57bb09ae2408748abcc4c3f51d
+  - enabled: 1
+    path: Assets/Scenes/Early Imperial China/Early Imperial China Area Screen.unity
+    guid: 40d1f5c7a78cced469e8829fcc59ff28
+  - enabled: 1
+    path: Assets/Scenes/Early Imperial China/King Yu The Great Screen.unity
+    guid: ac9006b7523ceb84db961b8ad08537fb
+  - enabled: 1
+    path: Assets/Scenes/Early Imperial China/Oracle Bones Screen.unity
+    guid: ca5ad48a259b8094ab1f45618358864c
+  - enabled: 1
+    path: Assets/Scenes/Medieval Europe/Medieval Europe Teleporter Screen.unity
+    guid: 8c8f2997a49868e478cb9bb592b8a1f8
+  - enabled: 1
+    path: Assets/Scenes/Medieval Europe/Medieval Europe Area Screen.unity
+    guid: f8e1d5b27f6152f46a8a9d63ac898779
+  - enabled: 1
+    path: Assets/Scenes/Medieval Europe/Spear Screen.unity
+    guid: 6435d4a7f0328ea4bb76c15c9ed3ff29
+  - enabled: 1
+    path: Assets/Scenes/Medieval Europe/Rat Screen.unity
+    guid: 131618eea32a45149a8b4a2f78e531d1
+  - enabled: 1
+    path: Assets/Scenes/Aztec Empire/Aztec Empire Teleporter Screen.unity
+    guid: 43c46fa15df284f4982ffbedbba5c91b
+  - enabled: 1
+    path: Assets/Scenes/Aztec Empire/Aztec Empire Area Screen.unity
+    guid: b026e39e47e18ae4e952d8a40a3a2a2c
+  - enabled: 1
+    path: Assets/Scenes/Aztec Empire/The Great Temple Screen.unity
+    guid: b5eabed9cdc920d49ae07fd6cabd23b5
+  - enabled: 1
+    path: Assets/Scenes/Aztec Empire/Huitzilopochtli Screen.unity
+    guid: 49794596366ca5d4ebe9e1bbc8b34771
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Quiz Starting Screen.unity
+    guid: 035d1e2003ea4a741be075f20392fcaf
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question01.unity
+    guid: b32a74ce9dd713b43999e25e044c0e84
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question02.unity
+    guid: ad4cab35a331e1a469dbc78fc70b0152
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question03.unity
+    guid: c1a2062e47adebc4cb148699854b9b5f
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question04.unity
+    guid: f7998391390798e44914b1524444ec2e
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question05.unity
+    guid: 410266edbbde2504a897f973d9c62ca1
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question06.unity
+    guid: 77f020fdf4ef8344e93d21cf13f194fa
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question07.unity
+    guid: 8294195cbb9807c43ba089f4cd4fc06a
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Question08.unity
+    guid: bd3dbfb04acbd2643a03de6476ad3c3d
+  - enabled: 1
+    path: Assets/Scenes/Quiz Screens/Results Screen.unity
+    guid: 16cf2a22d1c213140b506d9d29f6b71d
+  m_configObjects: {}
