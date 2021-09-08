@@ -4,4 +4,5 @@ This is an educational application that I, Andrew Youssef, alongside Alexander V
 The intended audience for this application is a year 7 history class.
 
 You can download and play History In Your Hands on PC here: https://andrewyoussef.itch.io/history-in-your-hands
+
 A navigational video of History In Your Hands is available here: https://youtu.be/mXBGB-SwRCc
